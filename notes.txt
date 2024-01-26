@@ -1,0 +1,18 @@
+bcrypt
+
+agar 1 se zayda function hota hai toh hm {} k anadr rakhte hai module.exports mai 
+same for import mai {} lagana hona hota hai 
+
+promise error aata hahi toh awit laga k chal jayega
+2FA 2 factor authentication : esme otp or password check kar k cookie generate karte hai 
+esme otp generate hota hai  
+it is middleware process between cookie generation 
+while using 2FA use kar rahe hai toh otp bhejwana zaruri hai 
+
+Account SID : AC31c6b51283270aed3df45834058a4cb9
+Auth token : 87ddf00b618d1e29dedd2cab0c84cffb
+SERVICE SID : VA4619e6f3abfcd8a694fc4211ac1c09d6
+TEST Auth token: db1ae9ecc17bc8ac57a836f860637d33
+more factors to make safe api 
+rate limiter 
+login ip adress to get location 
